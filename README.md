@@ -18,7 +18,7 @@ L'objectif de ce projet était de réaliser sur Figma la maquette desktop du fut
 
 ## Maquette Figma
 
-👉 [Voir la maquette PROBEATS sur Figma](COLLER-ICI-LE-LIEN-FIGMA)
+👉 [Voir la maquette PROBEATS sur Figma](https://www.figma.com/design/QUW6Ysp0jhoezx6iNEke1W/Probeats?node-id=0-1&t=g4qoUyaqf6hFSEg9-1)
 
 ## Outils utilisés
 
